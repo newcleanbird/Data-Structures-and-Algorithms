@@ -28,4 +28,4 @@ Boyer-Moore算法因其高效性，广泛应用于大规模文本搜索、文件
 
 ## 实现
 
-[BM算法实现](https://www.cnblogs.com/YWT-Real/p/17120732.html)
+[BM算法 C++实现](./Boyer-Moore.cpp)
